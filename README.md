@@ -1,4 +1,4 @@
-# visual_dashboard_overview-classificationmodel_GUVI-CAPESTONE-04
+# Dashboard-overview-and-classificationmodel_GUVI-CAPESTONE-04
 
 # Business Analytics Assignment
 ## 1. Prepare a dashboard either in Power BI or Tableau based on the Sales data shared. :- (Dashboard)
